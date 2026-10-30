@@ -1,0 +1,13 @@
+# Virtual environment
+.venv/
+venv/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs & temp
+*.log
+emergency_alerts.txt
